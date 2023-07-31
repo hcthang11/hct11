@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thang
-- 👀 I’m interested in code
 - 🌱 I’m currently learning at KMA
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... ig: your.chiethang
