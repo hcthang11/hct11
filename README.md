@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thang
 - 🌱 I’m currently learning at KMA
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on git
 - 📫 How to reach me ... ig: your.chiethang
 
 <!---
